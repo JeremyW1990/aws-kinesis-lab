@@ -1,6 +1,14 @@
 # aws-kinesis-lab
 
-A lab aims to catch user's actions on webpage.
+The client from work raises a request to catch users' behaviors on the webpage, send these big data to the Business Intelligence team.
+
+Those data will give visual evidence about the efficiency of web layout/design, promotion activity ...
+
+Let the client give a quick response to the market.
+
+____
+
+This lab aims to catch users' actions on the webpage.
 Users' action information includes button click, page/route navigation, viewpoint staying time, etc.
 
 
