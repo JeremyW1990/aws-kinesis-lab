@@ -13,9 +13,12 @@ Users' action information includes button click, page/route navigation, viewpoin
 
 
 The architecture solution will be iterating.
+
 Hopefully, it will eventually envolves to a full stable/scalable solution that can be found on AWS documents.
 
 For practice purposes, I will start with something very simple.
+
+___
 
 1/27/2020
 V1:
