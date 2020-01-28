@@ -2,7 +2,7 @@
 
 The client from work raises a request to catch users' behaviors on the webpage, send these big data to the Business Intelligence team.
 
-Those data will give visual evidence about the efficiency of web layout/design, promotion activity ...
+Those data will give visual insight about the efficiency of web layout/design, promotion activity ...
 
 Let the client give a quick response to the market.
 
