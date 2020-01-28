@@ -11,7 +11,8 @@ For practice purposes, I will start with something very simple.
 
 1/27/2020
 V1:
-Architecture : React-frontend   ------------->   kinesis-stream
+Architecture : React-frontend   ------------->   kinesis-stream 
+
 Goal: React app log some button-click event to Kinesis-stream
 
 
